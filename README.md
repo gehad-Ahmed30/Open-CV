@@ -22,5 +22,4 @@ The **Hand Gesture Volume Control** project aims to create an interactive applic
 ## Conclusion
 This project showcases the potential of using hand gestures for intuitive interaction with technology, providing a unique and engaging way to control device settings without physical buttons. 🎉🤖
 
-Feel free to explore and enhance the functionality of this project to create a more comprehensive gesture recognition system! 🚀
 
