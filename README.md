@@ -1,7 +1,7 @@
 # Hand Gesture Volume Control Project ✋🔊
 
 ## 1) Project Cars Data Analysis:-
-![Prject Photo](photo1.jpg )
+![Prject Photo](photo/photo1.jpg )
 ## Project Overview
 The **Hand Gesture Volume Control** project aims to create an interactive application that allows users to control their device's volume using hand gestures. By leveraging computer vision techniques and the MediaPipe library, the application detects hand movements and translates them into volume adjustments in real time.
 
